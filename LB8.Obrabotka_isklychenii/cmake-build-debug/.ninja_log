@@ -1,0 +1,18 @@
+# ninja log v5
+775	1108	6906798755571683	Obrabotka_isklychenii.exe	a1f37d943543d2
+0	772	6906798752252469	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+1	279	6906835918495776	build.ninja	91da88f4b2a15f13
+4	1121	6906835930630519	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+1122	1520	6906835934583103	Obrabotka_isklychenii.exe	a1f37d943543d2
+4	674	6906836327129693	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+674	854	6906836328860925	Obrabotka_isklychenii.exe	a1f37d943543d2
+4	2422	6906841802005335	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+2422	2808	6906841805819960	Obrabotka_isklychenii.exe	a1f37d943543d2
+4	711	6906842321297236	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+713	902	6906842323157421	Obrabotka_isklychenii.exe	a1f37d943543d2
+4	879	6906842814389031	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+879	1407	6906842819603764	Obrabotka_isklychenii.exe	a1f37d943543d2
+6	1066	6906843025869584	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+1067	1353	6906843028735215	Obrabotka_isklychenii.exe	a1f37d943543d2
+3	860	6913511724065203	CMakeFiles/Obrabotka_isklychenii.dir/main.cpp.obj	d03f47fdf5e31ea5
+861	1093	6913511726301791	Obrabotka_isklychenii.exe	a1f37d943543d2
