@@ -1,0 +1,3 @@
+D:/CLion 2021.3/Rabota_s_file/cmake-build-debug/CMakeFiles/Rabota_s_file.dir
+D:/CLion 2021.3/Rabota_s_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion 2021.3/Rabota_s_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
