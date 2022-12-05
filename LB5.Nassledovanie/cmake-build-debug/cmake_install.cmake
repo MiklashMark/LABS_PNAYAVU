@@ -1,4 +1,4 @@
-# Install script for directory: D:/CLion 2021.3/LB2
+# Install script for directory: D:/GitHub/labs/LB5.Nassledovanie
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/CLion 2021.3/LB2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/GitHub/labs/LB5.Nassledovanie/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

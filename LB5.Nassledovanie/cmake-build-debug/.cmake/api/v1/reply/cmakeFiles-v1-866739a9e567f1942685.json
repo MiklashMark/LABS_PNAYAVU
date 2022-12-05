@@ -757,8 +757,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/CLion 2021.3/LB2/cmake-build-debug",
-		"source" : "D:/CLion 2021.3/LB2"
+		"build" : "D:/GitHub/labs/LB5.Nassledovanie/cmake-build-debug",
+		"source" : "D:/GitHub/labs/LB5.Nassledovanie"
 	},
 	"version" : 
 	{

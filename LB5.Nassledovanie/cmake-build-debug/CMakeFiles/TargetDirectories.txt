@@ -1,3 +1,3 @@
-D:/CLion 2021.3/LB2/cmake-build-debug/CMakeFiles/LB2.dir
-D:/CLion 2021.3/LB2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion 2021.3/LB2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/labs/LB5.Nassledovanie/cmake-build-debug/CMakeFiles/LB2.dir
+D:/GitHub/labs/LB5.Nassledovanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/labs/LB5.Nassledovanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/CLion 2021.3/LB2/cmake-build-debug"
+			"value" : "d:/CLion 2021.3/KURSOVAYA/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -283,10 +283,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "D:/mingw64/mingw64/bin/gcc.exe"
 		},
 		{
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/CLion 2021.3/LB2"
+			"value" : "D:/CLion 2021.3/KURSOVAYA"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/LB2"
+			"value" : "C:/Program Files (x86)/KURSOVAYA"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "LB2"
+			"value" : "KURSOVAYA"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "LB2_BINARY_DIR",
+			"name" : "KURSOVAYA_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CLion 2021.3/LB2/cmake-build-debug"
+			"value" : "D:/CLion 2021.3/KURSOVAYA/cmake-build-debug"
 		},
 		{
-			"name" : "LB2_IS_TOP_LEVEL",
+			"name" : "KURSOVAYA_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "LB2_SOURCE_DIR",
+			"name" : "KURSOVAYA_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/CLion 2021.3/LB2"
+			"value" : "D:/CLion 2021.3/KURSOVAYA"
 		}
 	],
 	"kind" : "cache",

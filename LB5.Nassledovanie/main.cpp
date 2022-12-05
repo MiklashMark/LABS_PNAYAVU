@@ -32,7 +32,6 @@ protected:
 public:
     student(string data_group, string data_name) : human(data_name)
     {
-        name = data_name;
         group = data_group;
         cout << "Конструктор student" << '\n' << endl;
     };
@@ -136,8 +135,8 @@ public:
 int main()
 {
     system("chcp 65001");
-    aspirant M("199222", "Samiilov", 74, "math", "binary trees", "Evdokimov");
-    M.print();
+    student A("2322","mafa");
+    A.print();
 
     return 0;
 }
